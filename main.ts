@@ -32,7 +32,7 @@ const drafts: { round: number; text: string; verdict: string }[] = [
   },
   {
     round: 6,
-    text: "Sorry, can't come in today — at 4:58 I sneezed so hard I pulled a muscle in my back, and now I can only shuffle round like a penguin, which I'm pretty sure isn't in the dress code.",
+    text: "Sorry Priya, can't come in - at 6:12 my 4-year-old Milo superglued my hand to the fridge to 'keep Daddy home.' Typing this with my nose. Firefighters say 3 hours. Milo says it's working.",
     verdict: "FINAL — re-read round 5 aloud: every clause does work, nothing to cut, twist at the very end. Ship it unchanged.",
   },
 ];
